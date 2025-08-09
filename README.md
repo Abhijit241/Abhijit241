@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Abhijit241
-- 👀 I’m interested in finding problems 
-- 🌱 I’m currently learning full stack web designing...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Abhijit 👋
+💻 Computer Science Student | Python & Flask Developer  
+🌱 Currently learning Pandas & Flask  
+🚀 Building AI & automation projects  
 
-<!---
-Abhijit241/Abhijit241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Skills:** Python | Flask | Pandas | HTML | CSS  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abhijit-mandal-606813318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
